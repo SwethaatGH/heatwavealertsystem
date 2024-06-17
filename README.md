@@ -8,7 +8,7 @@ This application was developed using Python Django and deployed using Docker. Ra
 
 ## How to setup project
 
-1. Create a project folder "heatwavealert" and add the code for ML model. Inside the project directory, create a django project using the following commands in sequence: ```pip install django```, ```django-admin startproject myproject```, ```cd myproject```, ```python manage.py startapp myapp```.
+1. Create a project folder "heatwavealert" and add the code for ML model. Inside the project directory, create a django project using the following commands in sequence: ```pip install django```, ```django-admin startproject heatwave_alert```, ```cd heatwave_alert```, ```python manage.py startapp alert```.
    
 Your directory structure should resemble:
 
